@@ -1,0 +1,48 @@
+# Copyright (C) 2021 Yeo Jay <purchasewgi@gmail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'ModuleVPtoPName'
+ModuleVPtoPName = VPtoP
+# Module description 'ModuleVPtoPDesc'
+ModuleVPtoPDesc = Description de VPtoP
+
+#
+# Page d'administration
+#
+VPtoPSetup = Configuration du module VPtoP
+Settings = Réglages
+VPtoPSetupPage = Page de configuration du module VPtoP
+
+#
+# Page À propos
+#
+About = À propos
+VPtoPAbout = À propos de VPtoP
+VPtoPAboutPage = Page à propos de VPtoP
+
+#
+# Page d'exemple
+#
+MyPageName = Nom de ma page
+
+#
+# Box d'exemple
+#
+MyWidget = Mon widget
+MyWidgetDescription = Description de mon widget
